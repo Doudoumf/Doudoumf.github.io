@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: zhaoyabin0416@gmail.com
 description: "就是喜欢鼓捣."
 keyword: "binge"
-url: "http://www.doudoumf.win/"              # your host, for absolute URL
+url: "http://doudoumf.win/"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
