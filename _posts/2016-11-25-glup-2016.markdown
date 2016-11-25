@@ -1,3 +1,10 @@
+---
+layout:     post
+title:      "Welcome to Doudoumf Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2016-11-24 18:46:00
+author:     "Doudoumf"
+header-img: "img/post-bg-2015.jpg"
 tags:
     - glup
 ---
