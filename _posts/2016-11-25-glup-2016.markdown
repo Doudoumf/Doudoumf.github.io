@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Welcome to Doudoumf Blog"
-subtitle:   " \"Hello World, Hello Blog\""
+title:      "Glup"
+subtitle:   " \"Hello World, Hello Glup\""
 date:       2016-11-24 18:46:00
 author:     "Doudoumf"
 header-img: "img/post-bg-2015.jpg"
