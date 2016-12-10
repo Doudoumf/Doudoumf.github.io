@@ -68,6 +68,11 @@
                         </a>
                     </li>
                     {% endif %}
+                    <li>
+                        <audio autoplay="autoplay" loop="loop">
+                            <source src="music/Hello.mp3" type="audio/mpeg">
+                        </audio>
+                    </li>
                 </ul>
                 <p class="copyright text-muted">
                     Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}
@@ -81,11 +86,6 @@
                 </p>
             </div>
         </div>
-    </div>
-    <div>
-        <audio autoplay="autoplay" loop="loop">
-            <source src="music/Hello.mp3" type="audio/mpeg">
-        </audio>
     </div>
 </footer>
 
